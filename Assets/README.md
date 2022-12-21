@@ -13,6 +13,7 @@ In order to use files within this folder, you will need [Inkscape](https://inksc
 
 For general information on usage, you can read the information below. Note that this isn't meant to be a tutorial on how to use Inkscape.
 
+
 ### Editing
 
 After opening the SVG file using Inkscape, I recommend opening the 'Layers and Objects' panel by either pressing `CTRL + SHIFT + L`, or `Layers > Layers and Objects` in the top menu bar. By hovering on the names, you can hide or show objects and layers, and lock or unlock them. Use these options to export all the variants needed. It also makes it easier to select individual elements within the file to recolor them. 
@@ -21,7 +22,8 @@ Once you selected an element you wish to recolor, you can open the `Fill and Str
 
 To add your own background, you can select the `BackgroundElement` layer and copy the desired file. Paste it inside of Inkscape, and it should appear!
 
-If you need to change the order of the object you're editing, you can use the `Page Up` or `Page Down` keys, or `Object > Raise / Lower`.
+If you need to change the order of the object you're editing, you can use the `Page Up` or `Page Down` keys, or `Object > Raise / Lower`. To mobe the object to another layer, use `SHIFT + Page Up` and `SHIFT + Page Down`, or `Layer > Move Selection to Layer Above / Below`.
+
 
 ### Exporting
 
