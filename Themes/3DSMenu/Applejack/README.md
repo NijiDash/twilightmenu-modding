@@ -2,7 +2,7 @@
 
 ![Theme Icon](./icon.png)
 
-This skin is a port of the 'Applejack' theme originally made by Spagem for the 3DS. The theme features custom wallpapers and background music
+This skin is a port of the 'Applejack' theme originally made by Spagem for the 3DS. The theme features custom wallpapers and background music to keep the Pony spirit alive and kicking!
 
 (3dsthem.es ID: 1114)
 
