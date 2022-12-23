@@ -7,6 +7,15 @@ This skin is a port of the 'Applejack' theme originally made by Spagem for the 3
 (3dsthem.es ID: 1114)
 
 
+## Screenshots
+
+| State | Screenshot | 
+|---|---|
+| App List | ![Screenshot of app list](screenshots/applist.png) |
+| Background | ![Screenshot of background](screenshots/background.png) |
+| Game Settings | ![Screenshot of game settings](screenshots/gamesettings.png) |
+
+
 ## Installation
 
 On your SD card, navigate to `_nds/TWiLightMenu/3dsmenu/themes/` and drop the `Applejack` directory into that folder. 
