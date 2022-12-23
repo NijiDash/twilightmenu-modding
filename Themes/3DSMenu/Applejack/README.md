@@ -29,8 +29,5 @@ Make sure the setting `DSi/3DS Theme Music` is set to `Theme` for the full exper
 
 | Version | Notes | 
 |---|---|
+| v1.0 | Customized shoulder buttons and dialog box |
 | v0.5 | Initial Version |
-
-## To-do List
-
-- [ ] Customize Shoulder Buttons (in `/ui/` folder)
